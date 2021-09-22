@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: restfulservices
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rahul.chawla
+Implementation-Vendor-Id: com.rest.webservice
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://spring.io/projects/spring-boot/restfulserv
+ ices
+Created-By: Maven Integration for Eclipse
+
